@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://sxc.github.io/gooduncle/sitemap.xml 
+Sitemap: http://gooduncle.org/sitemap.xml 
